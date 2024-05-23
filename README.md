@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ceelloju Vaishnavi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ programming language
+- 🌱 I’m currently learning C++ and I have knowledge in C,Python,Java
 - 💞️ I am looking to collaborate on innovative projects in a dynamic company where I can both enhance my technical skills and contribute to the company's growth.
 - 📫 Mail me at ceellojuv@gmail.com
 - 😄 Pronouns: Code Wizard
